@@ -1,0 +1,75 @@
+div {
+display: block;
+height: 300px;
+border: 1px dotted #000;
+background: #888;
+box-sizing: border-box;
+}
+
+div {
+    width: 300px;
+    float: left;
+}
+
+.one {
+width: 480px;
+height: 75;
+text-align: center;
+line-height: 75px;
+}
+
+.two {
+width: 480px;
+height: 150px;
+text-align: center;
+line-height: 150px;
+}
+
+.three {
+width: 480px;
+height: 125px;
+text-align: center;
+line-height: 125px;
+}
+
+.four {
+width: 480px;
+height: 125px;
+text-align: center;
+line-height: 125px;
+}
+
+.five {
+width: 240px;
+height: 250px;
+text-align: center;
+line-height: 250px;
+}
+
+.six {
+width: 240px;
+height: 250px;
+text-align: center;
+line-height: 250px;
+}
+
+.seven {
+width: 240px;
+height: 250px;
+text-align: center;
+line-height: 250px;
+}
+
+.eight {
+width: 240px;
+height: 250px;
+text-align: center;
+line-height: 250px;
+}
+
+.nine {
+width: 480px;
+height: 80px;
+text-align: center;
+line-height: 250px;
+}
