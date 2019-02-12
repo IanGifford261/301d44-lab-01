@@ -13,7 +13,7 @@ div {
 
 .one {
 width: 480px;
-height: 75;
+height: 75px;
 text-align: center;
 line-height: 75px;
 }
@@ -71,5 +71,5 @@ line-height: 250px;
 width: 480px;
 height: 80px;
 text-align: center;
-line-height: 250px;
+line-height: 80px;
 }
