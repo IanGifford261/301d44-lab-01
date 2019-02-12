@@ -1,26 +1,9 @@
 * {
-    box-sizing: border-box;
+box-sizing: border-box;
 }
 
+@media (min-width: 767px) {
 section {
-    width: 100%;
-  }
-  
-  div {
-    display: block;
-    height: 300px;
-    border: 1px dotted #000;
-    background: #888;
-    box-sizing: border-box;
-  }
-  
-  @media (min-width: 767px) {
-    section {
-      width: 1500px;
-    }
-  
-    div {
-      width: 300px;
-      float: left;
-    }
-  }
+    width: 480px;
+}
+}
