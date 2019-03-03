@@ -41,3 +41,5 @@ This is an independent project, but your are free to collaborate with your class
 
 
 ##BIG THANK YOU TO https://www.cssgridplayground.com/ and https://css-tricks.com/snippets/css/complete-guide-grid/ for helping me figure grids out better - ian gifford
+
+just doing this so i can make a branch
