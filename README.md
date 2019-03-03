@@ -38,3 +38,6 @@ This is an independent project, but your are free to collaborate with your class
 - Complete your Feature Tasks for the day
 - Create a Pull Request (PR) back to the `master` branch of your repository
 - On Canvas, submit a link to your PR
+
+
+##BIG THANK YOU TO https://www.cssgridplayground.com/ and https://css-tricks.com/snippets/css/complete-guide-grid/ for helping me figure grids out better - ian gifford
